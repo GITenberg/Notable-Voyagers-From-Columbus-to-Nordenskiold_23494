@@ -1,0 +1,36 @@
+_repo: Notable-Voyagers-From-Columbus-to-Nordenskiold_23494
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Frith, Henry
+    birthdate: 1840
+    gutenberg_agent_id: '25884'
+    url: http://www.gutenberg.org/2009/agents/25884
+  - agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W.H.G.
+    - Kingston, W. H. G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_bookshelf: Children's Biography
+gutenberg_issued: '2007-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Voyages and travels'
+- !lcsh 'Explorers'
+- !lcc 'G'
+title: Notable Voyagers, From Columbus to Nordenskiold
+url: http://www.gutenberg.org/ebooks/23494
