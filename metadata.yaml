@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8659
     wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23494#Notable-Voyagers-From-Columbus-to-Nordenskiold
 gutenberg_bookshelf: Children's Biography
 gutenberg_issued: '2007-11-15'
 gutenberg_type: Text
